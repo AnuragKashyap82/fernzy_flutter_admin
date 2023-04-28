@@ -1,4 +1,4 @@
-# frenzy_admin
+ frenzy_admin
 
 A new Flutter project.
 
